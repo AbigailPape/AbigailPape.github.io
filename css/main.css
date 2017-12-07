@@ -3,9 +3,10 @@ body {
     width: 90%;
     text-align: center;
     background-color: #c8f0f4;
+    font-family:'Times New Roman', 'Times', 'Serif';
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Times New Roman', 'Times', 'Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -13,6 +14,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-family:'Times New Roman', 'Times', 'Serif';
 }
 a {
     text-decoration: none;
@@ -23,7 +25,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Times New Roman', 'Times', 'Serif';
     text-align: center;
 }
 p {
@@ -31,16 +33,19 @@ p {
     line-height: 1.4em;
     color: #333;
     text-align: left;
+    font-family:'Times New Roman', 'Times', 'Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     text-align: center;
+    font-family:'Times New Roman', 'Times', 'Serif';
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    font-family:'Times New Roman', 'Times', 'Serif';
 }
 
 ul.posts li {
