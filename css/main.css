@@ -11,6 +11,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     font-size: 1.1em;
+    color: #74b3e0;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -18,20 +19,22 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #74b3e0;
 }
 a:hover {
     text-decoration: underline;
+    color: #2c475b;
 }
 h1 {
     font-size: 3em;
     font-family:'Times New Roman', 'Times', 'Serif';
     text-align: center;
+    color: #2c475b;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #74b3e0;
     text-align: center;
     font-family:'Times New Roman', 'Times', 'Serif';
 }
