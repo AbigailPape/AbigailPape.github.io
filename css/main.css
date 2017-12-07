@@ -10,11 +10,11 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    font-size: 1.3em;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    font-family:'Times New Roman', 'Times', 'Serif';
 }
 a {
     text-decoration: none;
@@ -32,7 +32,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    text-align: left;
+    text-align: center;
     font-family:'Times New Roman', 'Times', 'Serif';
 }
 footer {
