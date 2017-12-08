@@ -5,6 +5,12 @@ body {
     background-color: #fcfcfc;
     font-family:'Times New Roman', 'Times', 'Serif';
 }
+img {
+    display: block;
+    max-width: 70%;
+    height: auto;
+    margin: auto;
+}
 nav ul, footer ul {
     font-family:'Times New Roman', 'Times', 'Serif';
     padding: 0px;
