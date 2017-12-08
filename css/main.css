@@ -7,8 +7,8 @@ body {
 }
 img {
     display: block;
-    max-width: 70%;
-    height: auto;
+    max-width: 500px;
+    height: 350px;
     margin: auto;
 }
 nav ul, footer ul {
