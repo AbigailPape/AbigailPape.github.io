@@ -1,1 +1,56 @@
+body {
+    margin: 60px auto;
+    width: 90%;
+    text-align: center;
+    background-color: #fcfcfc;
+    font-family:'Times New Roman', 'Times', 'Serif';
+}
+nav ul, footer ul {
+    font-family:'Times New Roman', 'Times', 'Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #74b3e0;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: underline;
+    color: #74b3e0;
+}
+a:hover {
+    text-decoration: underline;
+    color: #2c475b;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Times New Roman', 'Times', 'Serif';
+    text-align: center;
+    color: #2c475b;
+}
+p {
+    font-size: 1.2em;
+    line-height: 1.4em;
+    color: #74b3e0;
+    text-align: center;
+    font-family:'Times New Roman', 'Times', 'Serif';
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+    text-align: center;
+    font-family:'Times New Roman', 'Times', 'Serif';
+}
 
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+    font-family:'Times New Roman', 'Times', 'Serif';
+}
+
+ul.posts li {
+    list-style: none;
+}
