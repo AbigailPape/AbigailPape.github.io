@@ -4,6 +4,7 @@ body {
     text-align: center;
     background-color: #fcfcfc;
     font-family:'Times New Roman', 'Times', 'Serif';
+    border-bottom: 1px solid #d5d5d5;
 }
 img {
     display: block;
