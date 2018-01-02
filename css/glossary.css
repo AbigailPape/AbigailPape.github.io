@@ -23,9 +23,6 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-nav ul {
-    border-bottom: 1px solid #d5d5d5;
-}
 a {
     text-decoration: underline;
     color: #74b3e0;
