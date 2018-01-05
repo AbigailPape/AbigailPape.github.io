@@ -51,6 +51,8 @@ button {
     display: block;
     border-radius: 6px;
     font-family:'Times New Roman', 'Times', 'Serif';
+    margin-left: 150px;
+    margin-right: 120px;
 }
 button:hover {
     background-color: #2c475b;
