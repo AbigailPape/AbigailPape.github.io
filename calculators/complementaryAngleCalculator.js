@@ -1,5 +1,5 @@
 function complementaryAngleCalculator() {
-  var origAngle= prompt("What angle measure, in degrees, would you like to find the complement of?\nInput format: just a number\nExample: 54");
+  var origAngle= prompt("What angle measure, in degrees, would you like to find the complement of?\nInput Format: A Number\nExample: 54");
   /*if (typeof origAngle === "number" &&& origAngle >= 0 && origAngle <= 90) {
     alert("Under construction");
   } else {
