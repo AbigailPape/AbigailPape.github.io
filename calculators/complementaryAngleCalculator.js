@@ -1,4 +1,3 @@
-function test() {
-  var name = prompt("What's your name?");
-  alert("Hello " + name + "!");
+function complementaryAngleCalculator() {
+  var origAngle= prompt("What angle measure, in degrees, would you like to find the complement of?\nExample input: \'54\'");
 };
