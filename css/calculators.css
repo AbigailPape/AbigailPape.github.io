@@ -49,7 +49,7 @@ button {
     float: left;
     padding: 12px;
     font-size: 1.2em;
-    display: inline-block;
+    display: block;
     border-radius: 6px;
     font-family:'Times New Roman', 'Times', 'Serif';
 }
