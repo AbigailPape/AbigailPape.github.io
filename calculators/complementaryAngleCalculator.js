@@ -4,7 +4,7 @@ function complementaryAngleCalculator() {
     if (typeof origAngle === "number" /*&& origAngle >= 0 && origAngle <= 90*/) {
       alert("Under construction");
     } else {
-      alert("\'" + origAngle + "\'" + " is not valid input.\nBe sure your input is just a number and is between or equal to 000b0; and 9000B0. Otherwise, its complement does not exist.");
+      alert("\'" + origAngle + "\'" + " is not valid input.\nBe sure your input is just a number and is between or equal to 0&#00B0; and 90&#00B0. Otherwise, its complement does not exist.");
     }
   }
 };
