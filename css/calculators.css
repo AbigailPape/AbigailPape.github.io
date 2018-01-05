@@ -32,13 +32,11 @@ h1 {
     color: #2c475b;
 }
 p {
-    font-size: 1.7em;
+    font-size: 1.2em;
     line-height: 1.4em;
     color: #74b3e0;
-    text-align: left;
+    text-align: center;
     font-family:'Times New Roman', 'Times', 'Serif';
-    margin-left: 150px;
-    margin-right: 120px;
 }
 button {
     background-color: #fcfcfc;
