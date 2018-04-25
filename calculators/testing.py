@@ -1,2 +1,2 @@
 def testing():
-  testing=raw_input("Testing")
+  testing = raw_input("Testing")
